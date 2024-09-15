@@ -1,0 +1,94 @@
+.job-primary{
+background-color:white;
+margin: 10px;
+padding: 20px;
+
+}
+.job-container{
+    background-color: #EFF6FF;
+    height: 800px;
+    display: flex;
+}
+.back-btn{
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    gap: 4px;
+   
+}
+.job-secondary{
+    background-color: white;
+    padding: 20px;
+    margin: 10px;
+}
+.side-bar{
+    width:550px;
+    padding: 10px;
+
+}
+.company-info{
+    background-color: white;
+    padding: 20px;
+
+}
+.manager{
+    background-color: white;
+    padding: 10px;
+    margin-top: 10px;
+}
+.edit-btn{
+    color: white;
+    background-color:#4338CA ;
+    border-radius: 10px;
+    padding: 7px 110px;
+    text-decoration: none;
+    
+
+}
+.contact{
+    background-color:#EFF6FF;
+    padding:10px
+}
+.del-btn{
+    background-color: rgb(243, 55, 55);
+    color: white;
+    border: none;
+    border-radius: 10px;
+    padding: 7px 110px;
+    margin-top: 10px;
+    font-size: 13px;
+}
+.form-container{
+    background-color: #EFF6FF;
+    height: 1100px;
+    display: flex;
+    justify-content: center;
+}
+form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: white;
+    width: 500px;
+    margin: 10px;
+    gap: 20px;
+    padding: 20px;
+}
+.job-list-name,.description-text,.com-location,.com-name,.com-description,.email,.phone{
+    width: 450px;
+    margin-top: 5px;
+    padding:10px
+}
+.salary,.job-type{
+    width: 470px;
+    margin-top: 5px;
+    padding: 10px;
+}
+.add-job-btn{
+    padding: 10px 130px;
+    background-color: #4338CA;
+    color: white;
+    border: none;
+    border-radius: 10px;
+
+}

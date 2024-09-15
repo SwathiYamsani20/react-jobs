@@ -1,0 +1,24 @@
+.job-list{
+    width: 390px; 
+    background-color: white;
+    padding: 20px;
+    margin-bottom: 30px;
+    border-radius: 5px;
+    
+}
+.readmore-btn{
+    background-color: #4338CA;
+    padding: 7px 30px;
+    text-decoration: none;
+    border-radius: 5px;
+    margin-left: 240px;
+    
+}
+.description{
+    margin-bottom: 20px;
+}
+.more-btn{
+    background-color: white;
+    border: none;
+    text-decoration: underline;
+}

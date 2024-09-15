@@ -1,0 +1,55 @@
+{
+	"folders": [
+		{
+			"path": "../../../Documents/CSS/8.1 CSS Float"
+		},
+		{
+			"path": "../../../Documents/CSS/8.2 Responsiveness"
+		},
+		{
+			"path": "../../gmail"
+		},
+		{
+			"path": "../../../Documents/CSS/8.3 Media Query"
+		},
+		{
+			"path": "../../../Documents/CSS/8.4 Web Design Agency Project"
+		},
+		{
+			"path": "../../../Documents/CSS/9.0 Display Flex"
+		},
+		{
+			"path": "../../../Documents/CSS/9.1 Flex Direction"
+		},
+		{
+			"path": "../../../Documents/CSS/9.4+Flexbox+Pricing+Table+Project"
+		},
+		{
+			"path": "../../../Documents/Brand_page"
+		},
+		{
+			"path": "../../../Documents/React_projects"
+		},
+		{
+			"path": "../../../Documents/contact_page"
+		},
+		{
+			"path": "../../../Documents/dice_game"
+		},
+		{
+			"path": "../../../practice"
+		},
+		{
+			"path": "../../../Downloads/react-crash-2024-main"
+		},
+		{
+			"path": "../../../Documents/React_jobs"
+		},
+		{
+			"path": "../../../Documents/react_trello"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "8.2 Responsiveness"
+	}
+}

@@ -1,0 +1,15 @@
+.jobs-list{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    
+    padding: 30px;
+}
+.heading{
+    color: #4338CA;
+    text-align: center;
+
+}
+.jobs-container{
+    background-color: #EFF6FF;
+}

@@ -1,0 +1,14 @@
+.hero-section{
+    background-color: #4338CA;
+    height: 300px;
+    color: white;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+margin-bottom: 10px;
+    
+}
+h1{
+    font-size: 3rem;
+}

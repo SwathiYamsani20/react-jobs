@@ -1,0 +1,23 @@
+.nav-container{
+    display: flex;
+    justify-content: space-around;
+    background-color: #4338CA;
+    margin-bottom: 1px;
+}
+.title-img{
+    display: flex;
+    align-items: center;
+    gap: 7px;
+}
+.logo{
+    width: 40px;
+    height: 40px;
+}
+.links{
+margin-top: 20px;
+display: flex;
+gap: 20px;
+}
+
+
+
