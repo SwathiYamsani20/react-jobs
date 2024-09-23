@@ -7,6 +7,7 @@ import JobPage from './Pages/JobPage.jsx';
 import AddJobPage from './Pages/AddJobPage.jsx';
 import jobs from "../src/jobs.js"
 import { useState } from 'react';
+import JobListings from './components/JobListings/JobListings.jsx';
 
 function App() {
   const [jobslist, setJobslist] = useState(jobs);
