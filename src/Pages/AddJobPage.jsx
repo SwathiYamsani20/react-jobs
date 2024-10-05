@@ -46,6 +46,7 @@ function AddJobPage({jobslist,setJobslist}) {
           <select
             id="type"
             name="type"
+            required
             className="job-type"
             value={type}
             onChange={(e) => setType(e.target.value)}
@@ -64,6 +65,7 @@ function AddJobPage({jobslist,setJobslist}) {
             id="title"
             value={title}
             name="title"
+            required
             placeholder="eg.Beautiful Apartment in Miami"
             className="job-list-name"
             onChange={(e) => setTitle(e.target.value)}
@@ -78,6 +80,7 @@ function AddJobPage({jobslist,setJobslist}) {
             placeholder="Add any job duties, expectations, requirements, etc"
             className="description-text"
             value={description}
+            required
             onChange={(e) => setDescription(e.target.value)}
           ></textarea>
         </div>
@@ -87,6 +90,7 @@ function AddJobPage({jobslist,setJobslist}) {
             id="salary"
             name="salary"
             className="salary"
+            required
             value={salary}
             onChange={(e) => setSalary(e.target.value)}
           >
@@ -159,6 +163,7 @@ function AddJobPage({jobslist,setJobslist}) {
           <input
             type="tel"
             id="contact_phone"
+            
             name="contact_phone"
             placeholder="Optional phone for applicants"
             className="phone"
